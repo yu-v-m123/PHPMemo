@@ -2,3 +2,4 @@
 [06-Oct-2021 02:53:06 Asia/Tokyo] PHP Notice:  Undefined index: user_name in /var/www/html/user/action/register.php on line 6
 [06-Oct-2021 02:53:06 Asia/Tokyo] PHP Notice:  Undefined index: user_email in /var/www/html/user/action/register.php on line 7
 [06-Oct-2021 02:53:06 Asia/Tokyo] PHP Notice:  Undefined index: user_password in /var/www/html/user/action/register.php on line 8
+[07-Oct-2021 05:08:39 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 49
