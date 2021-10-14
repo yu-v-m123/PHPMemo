@@ -1,12 +1,19 @@
 <?php
-	session_start();
+session_start();
+
+require '../common/auth.php';
+
+if (isLogin()) {
+	header('Location: ../memo/');
+	exit;
+}
 ?>
 
 <!DOCTYPE html>
 <html lang="ja">
 <?php
-	include_once "../common/header.php";
-	echo getHeader("ユーザー登録");
+include_once "../common/header.php";
+echo getHeader("ユーザー登録");
 ?>
 
 <body>
