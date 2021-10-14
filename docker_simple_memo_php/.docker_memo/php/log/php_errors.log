@@ -3,3 +3,31 @@
 [06-Oct-2021 02:53:06 Asia/Tokyo] PHP Notice:  Undefined index: user_email in /var/www/html/user/action/register.php on line 7
 [06-Oct-2021 02:53:06 Asia/Tokyo] PHP Notice:  Undefined index: user_password in /var/www/html/user/action/register.php on line 8
 [07-Oct-2021 05:08:39 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 49
+[15-Oct-2021 01:24:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:26:59 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:27:32 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:29:08 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:31:28 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:31:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:32:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
