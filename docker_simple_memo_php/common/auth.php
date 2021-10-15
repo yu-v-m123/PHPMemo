@@ -1,9 +1,10 @@
-<?php 
-  if(!isset($_SESSION)) {
-    session_start();
-  }
+<?php
 
-  /**
+if(!isset($_SESSION)){
+    session_start();
+}
+
+/**
  * ログインしているかチェックする
  * @return bool
  */
@@ -13,8 +14,9 @@ function isLogin() {
   }
 
   return false;
+}
 
-  /**
+/**
  * ログインしているユーザーの表示用ユーザー名を取得
  * @return string
  */
@@ -30,9 +32,9 @@ function getLoginUserName() {
   }
 
   return "";
-  }
+}
 
-  /**
+/**
  * ログインしているユーザーIDを取得する
  * @return |null
  */
@@ -43,5 +45,5 @@ function getLoginUserId() {
 
   return null;
 }
-}
+
 ?>

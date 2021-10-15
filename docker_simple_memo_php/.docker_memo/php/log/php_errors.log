@@ -31,3 +31,93 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:37:40 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 01:40:18 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:11
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 11
+[15-Oct-2021 08:48:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 08:49:01 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:16:02 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:18:18 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:20:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:20:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:20:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:21:17 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:21:18 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 09:21:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getLoginUserId() in /var/www/html/memo/action/add.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/memo/action/add.php on line 10
+[15-Oct-2021 13:05:14 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:14 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:14 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:15 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:15 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:15 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:16 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:16 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:16 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:17 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:18 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:18 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:18 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:19 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:19 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:19 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:05:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 22
+[15-Oct-2021 13:05:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 23
+[15-Oct-2021 13:05:51 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /var/www/html/memo/action/select.php on line 24
+[15-Oct-2021 13:36:18 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 18
+[15-Oct-2021 13:36:18 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[15-Oct-2021 15:44:33 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 18
+[15-Oct-2021 15:44:33 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 19
+[15-Oct-2021 15:47:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Oct-2021 15:47:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[15-Oct-2021 15:47:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Oct-2021 15:47:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[15-Oct-2021 16:36:47 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Oct-2021 16:36:47 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[15-Oct-2021 16:49:04 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[15-Oct-2021 16:49:04 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
